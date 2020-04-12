@@ -1,0 +1,955 @@
+2020-04-10 03:10:15 - [ INFO ] - bot.BotStarter:20 - [STARTED] Bot connected.
+2020-04-12 04:01:58 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 04:01:58 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 04:01:58 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 04:02:31 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 04:02:31 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 04:02:31 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 04:03:49 - [ ERROR] - database.DatabaseWorker:52 - Table 'transport.station' doesn't exist
+2020-04-12 04:03:49 - [ ERROR] - database.DatabaseWorker:52 - Table 'transport.station' doesn't exist
+2020-04-12 04:06:27 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 04:06:27 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 04:06:27 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 04:15:03 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 04:15:03 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 04:15:03 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 04:17:19 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 04:17:19 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 04:17:19 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 04:20:34 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 04:20:34 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 04:20:34 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 04:23:53 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 04:23:53 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 04:23:53 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 04:25:23 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 04:25:23 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 04:25:23 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 04:26:05 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 04:26:05 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 04:26:05 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 04:36:09 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 04:36:09 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 04:36:09 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 04:37:11 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 04:37:11 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 04:37:11 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 04:37:51 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 04:37:51 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 04:37:51 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 04:42:42 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 04:42:42 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 04:42:42 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 04:43:17 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 04:43:17 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 04:43:17 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 04:43:39 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 04:43:39 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 04:43:39 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 04:44:05 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 04:44:05 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 04:44:05 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 04:44:58 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 04:44:58 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 04:44:58 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 04:47:40 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 04:47:40 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 04:47:40 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 04:50:46 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 04:50:46 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 04:50:46 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 04:51:34 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 04:51:34 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 04:51:34 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 04:51:53 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 04:51:53 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 04:51:53 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 04:58:55 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 04:58:55 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 04:58:55 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 05:00:17 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 05:00:17 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 05:00:17 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 05:02:29 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 05:02:29 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 05:02:29 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 05:04:20 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 05:04:20 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 05:04:20 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 05:04:40 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 05:04:40 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 05:04:42 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 05:04:42 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 05:04:43 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 05:04:43 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 05:04:43 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 05:04:44 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 05:04:44 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 05:04:45 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 05:04:45 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 05:04:45 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 05:04:46 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 05:04:46 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 05:04:47 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 05:04:47 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 05:04:48 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 05:04:48 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 05:04:49 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 05:04:49 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 05:04:49 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 05:04:49 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 05:04:50 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 05:04:50 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 05:04:51 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 05:04:51 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 05:04:52 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 05:04:52 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 05:04:53 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 05:04:53 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 05:05:44 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 05:05:44 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 05:05:44 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 11:37:56 - [ ERROR] - org.telegram.telegrambots.updatesreceivers.DefaultBotSession:271 - Connect to api.telegram.org:443 [api.telegram.org/149.154.167.220] failed: Connection timed out: connect
+org.apache.http.conn.HttpHostConnectException: Connect to api.telegram.org:443 [api.telegram.org/149.154.167.220] failed: Connection timed out: connect
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:156)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:376)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:253)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:194)
+Caused by: java.net.ConnectException: Connection timed out: connect
+	at java.base/java.net.PlainSocketImpl.waitForConnect(Native Method)
+	at java.base/java.net.PlainSocketImpl.socketConnect(PlainSocketImpl.java:107)
+	at java.base/java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:399)
+	at java.base/java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:242)
+	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:224)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403)
+	at java.base/java.net.Socket.connect(Socket.java:591)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:368)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:142)
+	... 10 more
+2020-04-12 11:38:17 - [ ERROR] - org.telegram.telegrambots.updatesreceivers.DefaultBotSession:271 - Connect to api.telegram.org:443 [api.telegram.org/149.154.167.220] failed: Connection timed out: connect
+org.apache.http.conn.HttpHostConnectException: Connect to api.telegram.org:443 [api.telegram.org/149.154.167.220] failed: Connection timed out: connect
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:156)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:376)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:253)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:194)
+Caused by: java.net.ConnectException: Connection timed out: connect
+	at java.base/java.net.PlainSocketImpl.waitForConnect(Native Method)
+	at java.base/java.net.PlainSocketImpl.socketConnect(PlainSocketImpl.java:107)
+	at java.base/java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:399)
+	at java.base/java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:242)
+	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:224)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403)
+	at java.base/java.net.Socket.connect(Socket.java:591)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:368)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:142)
+	... 10 more
+2020-04-12 11:38:34 - [ ERROR] - org.telegram.telegrambots.updatesreceivers.DefaultBotSession:271 - Network is unreachable: connect
+java.net.SocketException: Network is unreachable: connect
+	at java.base/java.net.PlainSocketImpl.waitForConnect(Native Method)
+	at java.base/java.net.PlainSocketImpl.socketConnect(PlainSocketImpl.java:107)
+	at java.base/java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:399)
+	at java.base/java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:242)
+	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:224)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403)
+	at java.base/java.net.Socket.connect(Socket.java:591)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:368)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:142)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:376)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:253)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:194)
+2020-04-12 11:38:35 - [ ERROR] - org.telegram.telegrambots.updatesreceivers.DefaultBotSession:271 - Permission denied: connect
+java.net.SocketException: Permission denied: connect
+	at java.base/java.net.PlainSocketImpl.waitForConnect(Native Method)
+	at java.base/java.net.PlainSocketImpl.socketConnect(PlainSocketImpl.java:107)
+	at java.base/java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:399)
+	at java.base/java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:242)
+	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:224)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403)
+	at java.base/java.net.Socket.connect(Socket.java:591)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:368)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:142)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:376)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:253)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:194)
+2020-04-12 11:38:35 - [ ERROR] - org.telegram.telegrambots.updatesreceivers.DefaultBotSession:271 - Permission denied: connect
+java.net.SocketException: Permission denied: connect
+	at java.base/java.net.PlainSocketImpl.waitForConnect(Native Method)
+	at java.base/java.net.PlainSocketImpl.socketConnect(PlainSocketImpl.java:107)
+	at java.base/java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:399)
+	at java.base/java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:242)
+	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:224)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403)
+	at java.base/java.net.Socket.connect(Socket.java:591)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:368)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:142)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:376)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:253)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:194)
+2020-04-12 11:38:36 - [ ERROR] - org.telegram.telegrambots.updatesreceivers.DefaultBotSession:271 - Permission denied: connect
+java.net.SocketException: Permission denied: connect
+	at java.base/java.net.PlainSocketImpl.waitForConnect(Native Method)
+	at java.base/java.net.PlainSocketImpl.socketConnect(PlainSocketImpl.java:107)
+	at java.base/java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:399)
+	at java.base/java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:242)
+	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:224)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403)
+	at java.base/java.net.Socket.connect(Socket.java:591)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:368)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:142)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:376)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:253)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:194)
+2020-04-12 13:00:56 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 13:00:57 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 13:00:58 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 13:00:59 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 13:01:00 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 13:01:01 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 13:01:01 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 13:01:02 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 13:01:03 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 13:01:04 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 13:01:04 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 13:01:05 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 13:01:06 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 13:01:07 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 13:01:08 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 13:01:10 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 13:01:11 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 13:01:11 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 13:01:12 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 13:01:13 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 13:01:13 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 13:01:14 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 13:01:15 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 13:01:15 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 13:01:16 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 13:01:16 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 13:18:14 - [ ERROR] - org.telegram.telegrambots.updatesreceivers.DefaultBotSession:217 - Connection reset
+javax.net.ssl.SSLException: Connection reset
+	at java.base/sun.security.ssl.Alert.createSSLException(Alert.java:127)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:320)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:263)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:258)
+	at java.base/sun.security.ssl.SSLSocketImpl.handleException(SSLSocketImpl.java:1342)
+	at java.base/sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:844)
+	at org.apache.http.impl.conn.LoggingInputStream.read(LoggingInputStream.java:84)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:280)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:138)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:157)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:253)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:194)
+	Suppressed: java.net.SocketException: Connection reset by peer: socket write error
+		at java.base/java.net.SocketOutputStream.socketWrite0(Native Method)
+		at java.base/java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:110)
+		at java.base/java.net.SocketOutputStream.write(SocketOutputStream.java:150)
+		at java.base/sun.security.ssl.SSLSocketOutputRecord.encodeAlert(SSLSocketOutputRecord.java:81)
+		at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:351)
+		... 23 more
+Caused by: java.net.SocketException: Connection reset
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:186)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:140)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:448)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:68)
+	at java.base/sun.security.ssl.SSLSocketImpl.readApplicationRecord(SSLSocketImpl.java:1132)
+	at java.base/sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:828)
+	... 19 more
+2020-04-12 13:18:15 - [ ERROR] - org.telegram.telegrambots.updatesreceivers.DefaultBotSession:217 - Connection reset
+javax.net.ssl.SSLException: Connection reset
+	at java.base/sun.security.ssl.Alert.createSSLException(Alert.java:127)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:320)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:263)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:258)
+	at java.base/sun.security.ssl.SSLTransport.decode(SSLTransport.java:137)
+	at java.base/sun.security.ssl.SSLSocketImpl.decode(SSLSocketImpl.java:1180)
+	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(SSLSocketImpl.java:1091)
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:402)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:436)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:384)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:142)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:376)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:253)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:194)
+	Suppressed: java.net.SocketException: Connection reset by peer: socket write error
+		at java.base/java.net.SocketOutputStream.socketWrite0(Native Method)
+		at java.base/java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:110)
+		at java.base/java.net.SocketOutputStream.write(SocketOutputStream.java:150)
+		at java.base/sun.security.ssl.SSLSocketOutputRecord.encodeAlert(SSLSocketOutputRecord.java:81)
+		at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:351)
+		... 19 more
+Caused by: java.net.SocketException: Connection reset
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:186)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:140)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:448)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.decode(SSLSocketInputRecord.java:165)
+	at java.base/sun.security.ssl.SSLTransport.decode(SSLTransport.java:108)
+	... 16 more
+2020-04-12 13:18:16 - [ ERROR] - org.telegram.telegrambots.updatesreceivers.DefaultBotSession:217 - Connection reset
+javax.net.ssl.SSLException: Connection reset
+	at java.base/sun.security.ssl.Alert.createSSLException(Alert.java:127)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:320)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:263)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:258)
+	at java.base/sun.security.ssl.SSLTransport.decode(SSLTransport.java:137)
+	at java.base/sun.security.ssl.SSLSocketImpl.decode(SSLSocketImpl.java:1180)
+	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(SSLSocketImpl.java:1091)
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:402)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:436)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:384)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:142)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:376)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:253)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:194)
+	Suppressed: java.net.SocketException: Connection reset by peer: socket write error
+		at java.base/java.net.SocketOutputStream.socketWrite0(Native Method)
+		at java.base/java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:110)
+		at java.base/java.net.SocketOutputStream.write(SocketOutputStream.java:150)
+		at java.base/sun.security.ssl.SSLSocketOutputRecord.encodeAlert(SSLSocketOutputRecord.java:81)
+		at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:351)
+		... 19 more
+Caused by: java.net.SocketException: Connection reset
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:186)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:140)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:448)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.decode(SSLSocketInputRecord.java:165)
+	at java.base/sun.security.ssl.SSLTransport.decode(SSLTransport.java:108)
+	... 16 more
+2020-04-12 14:40:53 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 14:40:53 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 14:40:53 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.client.protocol.RequestAddCookies:123 - CookieSpec selected: default
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.client.protocol.RequestAuthCache:77 - Auth cache not set in the context
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager:267 - Connection request: [route: {s}->https://api.telegram.org:443][total available: 0; route allocated: 0 of 2; total allocated: 0 of 100]
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager:312 - Connection leased: [id: 0][route: {s}->https://api.telegram.org:443][total available: 0; route allocated: 1 of 2; total allocated: 1 of 100]
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.impl.execchain.MainClientExec:234 - Opening connection {s}->https://api.telegram.org:443
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.impl.conn.DefaultHttpClientConnectionOperator:139 - Connecting to api.telegram.org/149.154.167.220:443
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.conn.ssl.SSLConnectionSocketFactory:366 - Connecting socket to api.telegram.org/149.154.167.220:443 with timeout 75000
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.conn.ssl.SSLConnectionSocketFactory:430 - Enabled protocols: [TLSv1.3, TLSv1.2, TLSv1.1, TLSv1]
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.conn.ssl.SSLConnectionSocketFactory:431 - Enabled cipher suites:[TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384, TLS_CHACHA20_POLY1305_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_CHACHA20_POLY1305_SHA256, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.conn.ssl.SSLConnectionSocketFactory:435 - Starting handshake
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.conn.ssl.SSLConnectionSocketFactory:465 - Secure session established
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.conn.ssl.SSLConnectionSocketFactory:466 -  negotiated protocol: TLSv1.3
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.conn.ssl.SSLConnectionSocketFactory:467 -  negotiated cipher suite: TLS_AES_256_GCM_SHA384
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.conn.ssl.SSLConnectionSocketFactory:475 -  peer principal: CN=api.telegram.org, OU=Domain Control Validated
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.conn.ssl.SSLConnectionSocketFactory:484 -  peer alternative names: [api.telegram.org, www.api.telegram.org]
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.conn.ssl.SSLConnectionSocketFactory:488 -  issuer principal: CN=Go Daddy Secure Certificate Authority - G2, OU=http://certs.godaddy.com/repository/, O="GoDaddy.com, Inc.", L=Scottsdale, ST=Arizona, C=US
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.impl.conn.DefaultHttpClientConnectionOperator:146 - Connection established 10.152.67.25:56344<->149.154.167.220:443
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.impl.conn.DefaultManagedHttpClientConnection:88 - http-outgoing-0: set socket timeout to 75000
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.impl.execchain.MainClientExec:255 - Executing request POST /bot1097739548:AAEgO1OpNPotzde0v_vEZmJhRSQysAq8V1I/deleteWebhook HTTP/1.1
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.impl.execchain.MainClientExec:260 - Target auth state: UNCHALLENGED
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.impl.execchain.MainClientExec:266 - Proxy auth state: UNCHALLENGED
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.headers:133 - http-outgoing-0 >> POST /bot1097739548:AAEgO1OpNPotzde0v_vEZmJhRSQysAq8V1I/deleteWebhook HTTP/1.1
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.headers:136 - http-outgoing-0 >> charset: UTF-8
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.headers:136 - http-outgoing-0 >> Content-Length: 26
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.headers:136 - http-outgoing-0 >> Content-Type: application/json; charset=UTF-8
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.headers:136 - http-outgoing-0 >> Host: api.telegram.org
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.headers:136 - http-outgoing-0 >> Connection: Keep-Alive
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.headers:136 - http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.12 (Java/12.0.2)
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.headers:136 - http-outgoing-0 >> Accept-Encoding: gzip,deflate
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-0 >> "POST /bot1097739548:AAEgO1OpNPotzde0v_vEZmJhRSQysAq8V1I/deleteWebhook HTTP/1.1[\r][\n]"
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-0 >> "charset: UTF-8[\r][\n]"
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-0 >> "Content-Length: 26[\r][\n]"
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-0 >> "Content-Type: application/json; charset=UTF-8[\r][\n]"
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-0 >> "Host: api.telegram.org[\r][\n]"
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.12 (Java/12.0.2)[\r][\n]"
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-0 >> "[\r][\n]"
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.wire:87 - http-outgoing-0 >> "{"method":"deleteWebhook"}"
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-0 << "Server: nginx/1.16.1[\r][\n]"
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-0 << "Date: Sun, 12 Apr 2020 11:43:46 GMT[\r][\n]"
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-0 << "Content-Type: application/json[\r][\n]"
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-0 << "Content-Length: 68[\r][\n]"
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-0 << "Strict-Transport-Security: max-age=31536000; includeSubDomains; preload[\r][\n]"
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-0 << "Access-Control-Allow-Methods: GET, POST, OPTIONS[\r][\n]"
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-0 << "Access-Control-Expose-Headers: Content-Length,Content-Type,Date,Server,Connection[\r][\n]"
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-0 << "[\r][\n]"
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.wire:87 - http-outgoing-0 << "{"ok":true,"result":true,"description":"Webhook is already deleted"}"
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.headers:122 - http-outgoing-0 << HTTP/1.1 200 OK
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.headers:125 - http-outgoing-0 << Server: nginx/1.16.1
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.headers:125 - http-outgoing-0 << Date: Sun, 12 Apr 2020 11:43:46 GMT
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.headers:125 - http-outgoing-0 << Content-Type: application/json
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.headers:125 - http-outgoing-0 << Content-Length: 68
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.headers:125 - http-outgoing-0 << Connection: keep-alive
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.headers:125 - http-outgoing-0 << Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.headers:125 - http-outgoing-0 << Access-Control-Allow-Origin: *
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.headers:125 - http-outgoing-0 << Access-Control-Allow-Methods: GET, POST, OPTIONS
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.headers:125 - http-outgoing-0 << Access-Control-Expose-Headers: Content-Length,Content-Type,Date,Server,Connection
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.impl.execchain.MainClientExec:285 - Connection can be kept alive indefinitely
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager:344 - Connection [id: 0][route: {s}->https://api.telegram.org:443] can be kept alive indefinitely
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.impl.conn.DefaultManagedHttpClientConnection:88 - http-outgoing-0: set socket timeout to 0
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager:351 - Connection released: [id: 0][route: {s}->https://api.telegram.org:443][total available: 1; route allocated: 1 of 2; total allocated: 1 of 100]
+2020-04-12 14:43:47 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 14:43:47 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 14:43:47 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.client.protocol.RequestAddCookies:123 - CookieSpec selected: default
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.client.protocol.RequestAuthCache:77 - Auth cache not set in the context
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager:267 - Connection request: [route: {s}->https://api.telegram.org:443][total available: 0; route allocated: 0 of 2; total allocated: 0 of 100]
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager:312 - Connection leased: [id: 1][route: {s}->https://api.telegram.org:443][total available: 0; route allocated: 1 of 2; total allocated: 1 of 100]
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.impl.execchain.MainClientExec:234 - Opening connection {s}->https://api.telegram.org:443
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.impl.conn.DefaultHttpClientConnectionOperator:139 - Connecting to api.telegram.org/149.154.167.220:443
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.conn.ssl.SSLConnectionSocketFactory:366 - Connecting socket to api.telegram.org/149.154.167.220:443 with timeout 75000
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.conn.ssl.SSLConnectionSocketFactory:430 - Enabled protocols: [TLSv1.3, TLSv1.2, TLSv1.1, TLSv1]
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.conn.ssl.SSLConnectionSocketFactory:431 - Enabled cipher suites:[TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384, TLS_CHACHA20_POLY1305_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_CHACHA20_POLY1305_SHA256, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.conn.ssl.SSLConnectionSocketFactory:435 - Starting handshake
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.conn.ssl.SSLConnectionSocketFactory:465 - Secure session established
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.conn.ssl.SSLConnectionSocketFactory:466 -  negotiated protocol: TLSv1.3
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.conn.ssl.SSLConnectionSocketFactory:467 -  negotiated cipher suite: TLS_AES_256_GCM_SHA384
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.conn.ssl.SSLConnectionSocketFactory:475 -  peer principal: CN=api.telegram.org, OU=Domain Control Validated
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.conn.ssl.SSLConnectionSocketFactory:484 -  peer alternative names: [api.telegram.org, www.api.telegram.org]
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.conn.ssl.SSLConnectionSocketFactory:488 -  issuer principal: CN=Go Daddy Secure Certificate Authority - G2, OU=http://certs.godaddy.com/repository/, O="GoDaddy.com, Inc.", L=Scottsdale, ST=Arizona, C=US
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.impl.conn.DefaultHttpClientConnectionOperator:146 - Connection established 10.152.67.25:56345<->149.154.167.220:443
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.impl.conn.DefaultManagedHttpClientConnection:88 - http-outgoing-1: set socket timeout to 75000
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.impl.execchain.MainClientExec:255 - Executing request POST /bot1097739548:AAEgO1OpNPotzde0v_vEZmJhRSQysAq8V1I/getupdates HTTP/1.1
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.impl.execchain.MainClientExec:260 - Target auth state: UNCHALLENGED
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.impl.execchain.MainClientExec:266 - Proxy auth state: UNCHALLENGED
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.headers:133 - http-outgoing-1 >> POST /bot1097739548:AAEgO1OpNPotzde0v_vEZmJhRSQysAq8V1I/getupdates HTTP/1.1
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.headers:136 - http-outgoing-1 >> charset: UTF-8
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.headers:136 - http-outgoing-1 >> Content-Length: 59
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.headers:136 - http-outgoing-1 >> Content-Type: application/json; charset=UTF-8
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.headers:136 - http-outgoing-1 >> Host: api.telegram.org
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.headers:136 - http-outgoing-1 >> Connection: Keep-Alive
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.headers:136 - http-outgoing-1 >> User-Agent: Apache-HttpClient/4.5.12 (Java/12.0.2)
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.headers:136 - http-outgoing-1 >> Accept-Encoding: gzip,deflate
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-1 >> "POST /bot1097739548:AAEgO1OpNPotzde0v_vEZmJhRSQysAq8V1I/getupdates HTTP/1.1[\r][\n]"
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-1 >> "charset: UTF-8[\r][\n]"
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-1 >> "Content-Length: 59[\r][\n]"
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-1 >> "Content-Type: application/json; charset=UTF-8[\r][\n]"
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-1 >> "Host: api.telegram.org[\r][\n]"
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-1 >> "Connection: Keep-Alive[\r][\n]"
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-1 >> "User-Agent: Apache-HttpClient/4.5.12 (Java/12.0.2)[\r][\n]"
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-1 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-1 >> "[\r][\n]"
+2020-04-12 14:43:47 - [ DEBUG] - org.apache.http.wire:87 - http-outgoing-1 >> "{"offset":1,"limit":100,"timeout":50,"method":"getupdates"}"
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-1 << "HTTP/1.1 200 OK[\r][\n]"
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-1 << "Server: nginx/1.16.1[\r][\n]"
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-1 << "Date: Sun, 12 Apr 2020 11:43:58 GMT[\r][\n]"
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-1 << "Content-Type: application/json[\r][\n]"
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-1 << "Content-Length: 407[\r][\n]"
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-1 << "Connection: keep-alive[\r][\n]"
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-1 << "Strict-Transport-Security: max-age=31536000; includeSubDomains; preload[\r][\n]"
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-1 << "Access-Control-Allow-Origin: *[\r][\n]"
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-1 << "Access-Control-Allow-Methods: GET, POST, OPTIONS[\r][\n]"
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-1 << "Access-Control-Expose-Headers: Content-Length,Content-Type,Date,Server,Connection[\r][\n]"
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-1 << "[\r][\n]"
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-1 << "{"ok":true,"result":[{"update_id":542417598,[\n]"
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.wire:87 - http-outgoing-1 << ""message":{"message_id":106,"from":{"id":426816737,"is_bot":false,"first_name":"Alexander","last_name":"Popov","username":"rosamonaar","language_code":"ru"},"chat":{"id":426816737,"first_name":"Alexander","last_name":"Popov","username":"rosamonaar","type":"private"},"date":1586691838,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}]}"
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.headers:122 - http-outgoing-1 << HTTP/1.1 200 OK
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.headers:125 - http-outgoing-1 << Server: nginx/1.16.1
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.headers:125 - http-outgoing-1 << Date: Sun, 12 Apr 2020 11:43:58 GMT
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.headers:125 - http-outgoing-1 << Content-Type: application/json
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.headers:125 - http-outgoing-1 << Content-Length: 407
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.headers:125 - http-outgoing-1 << Connection: keep-alive
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.headers:125 - http-outgoing-1 << Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.headers:125 - http-outgoing-1 << Access-Control-Allow-Origin: *
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.headers:125 - http-outgoing-1 << Access-Control-Allow-Methods: GET, POST, OPTIONS
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.headers:125 - http-outgoing-1 << Access-Control-Expose-Headers: Content-Length,Content-Type,Date,Server,Connection
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.impl.execchain.MainClientExec:285 - Connection can be kept alive indefinitely
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager:344 - Connection [id: 1][route: {s}->https://api.telegram.org:443] can be kept alive indefinitely
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.impl.conn.DefaultManagedHttpClientConnection:88 - http-outgoing-1: set socket timeout to 0
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager:351 - Connection released: [id: 1][route: {s}->https://api.telegram.org:443][total available: 1; route allocated: 1 of 2; total allocated: 1 of 100]
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.client.protocol.RequestAddCookies:123 - CookieSpec selected: default
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.client.protocol.RequestAuthCache:77 - Auth cache not set in the context
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager:267 - Connection request: [route: {s}->https://api.telegram.org:443][total available: 1; route allocated: 1 of 2; total allocated: 1 of 100]
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager:312 - Connection leased: [id: 1][route: {s}->https://api.telegram.org:443][total available: 0; route allocated: 1 of 2; total allocated: 1 of 100]
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.impl.conn.DefaultManagedHttpClientConnection:88 - http-outgoing-1: set socket timeout to 0
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.impl.conn.DefaultManagedHttpClientConnection:88 - http-outgoing-1: set socket timeout to 75000
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.impl.execchain.MainClientExec:255 - Executing request POST /bot1097739548:AAEgO1OpNPotzde0v_vEZmJhRSQysAq8V1I/getupdates HTTP/1.1
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.impl.execchain.MainClientExec:260 - Target auth state: UNCHALLENGED
+2020-04-12 14:44:00 - [ DEBUG] - bot.TelegramBot:19 - Receive new Update: /start
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.impl.execchain.MainClientExec:266 - Proxy auth state: UNCHALLENGED
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.headers:133 - http-outgoing-1 >> POST /bot1097739548:AAEgO1OpNPotzde0v_vEZmJhRSQysAq8V1I/getupdates HTTP/1.1
+2020-04-12 14:44:00 - [ DEBUG] - bot.messageProcessing.MessageReceiver:24 - New command for receive in queue: /start
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.headers:136 - http-outgoing-1 >> charset: UTF-8
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.headers:136 - http-outgoing-1 >> Content-Length: 67
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.headers:136 - http-outgoing-1 >> Content-Type: application/json; charset=UTF-8
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.headers:136 - http-outgoing-1 >> Host: api.telegram.org
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.headers:136 - http-outgoing-1 >> Connection: Keep-Alive
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.headers:136 - http-outgoing-1 >> User-Agent: Apache-HttpClient/4.5.12 (Java/12.0.2)
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.headers:136 - http-outgoing-1 >> Accept-Encoding: gzip,deflate
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-1 >> "POST /bot1097739548:AAEgO1OpNPotzde0v_vEZmJhRSQysAq8V1I/getupdates HTTP/1.1[\r][\n]"
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-1 >> "charset: UTF-8[\r][\n]"
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-1 >> "Content-Length: 67[\r][\n]"
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-1 >> "Content-Type: application/json; charset=UTF-8[\r][\n]"
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-1 >> "Host: api.telegram.org[\r][\n]"
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-1 >> "Connection: Keep-Alive[\r][\n]"
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-1 >> "User-Agent: Apache-HttpClient/4.5.12 (Java/12.0.2)[\r][\n]"
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-1 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-1 >> "[\r][\n]"
+2020-04-12 14:44:00 - [ DEBUG] - bot.messageProcessing.Handler:32 - [STARTED] Handler. Command: START
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.wire:87 - http-outgoing-1 >> "{"offset":542417599,"limit":100,"timeout":50,"method":"getupdates"}"
+2020-04-12 14:44:00 - [ DEBUG] - bot.messageProcessing.Handler:64 - New message add in send queue: Привет, я могу подсказать, как добраться из одного места в другое
+Вызови команду /help для получения инструкции
+2020-04-12 14:44:00 - [ DEBUG] - bot.messageProcessing.MessageSender:24 - Get new msg to send: Привет, я могу подсказать, как добраться из одного места в другое
+Вызови команду /help для получения инструкции
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.client.protocol.RequestAddCookies:123 - CookieSpec selected: default
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.client.protocol.RequestAuthCache:77 - Auth cache not set in the context
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager:267 - Connection request: [route: {s}->https://api.telegram.org:443][total available: 1; route allocated: 1 of 2; total allocated: 1 of 100]
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.wire:87 - http-outgoing-0 << "[read] I/O error: Read timed out"
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager:312 - Connection leased: [id: 0][route: {s}->https://api.telegram.org:443][total available: 0; route allocated: 1 of 2; total allocated: 1 of 100]
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.impl.conn.DefaultManagedHttpClientConnection:88 - http-outgoing-0: set socket timeout to 0
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.impl.conn.DefaultManagedHttpClientConnection:88 - http-outgoing-0: set socket timeout to 75000
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.impl.execchain.MainClientExec:255 - Executing request POST /bot1097739548:AAEgO1OpNPotzde0v_vEZmJhRSQysAq8V1I/sendmessage HTTP/1.1
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.impl.execchain.MainClientExec:260 - Target auth state: UNCHALLENGED
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.impl.execchain.MainClientExec:266 - Proxy auth state: UNCHALLENGED
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.headers:133 - http-outgoing-0 >> POST /bot1097739548:AAEgO1OpNPotzde0v_vEZmJhRSQysAq8V1I/sendmessage HTTP/1.1
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.headers:136 - http-outgoing-0 >> charset: UTF-8
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.headers:136 - http-outgoing-0 >> Content-Length: 258
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.headers:136 - http-outgoing-0 >> Content-Type: application/json; charset=UTF-8
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.headers:136 - http-outgoing-0 >> Host: api.telegram.org
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.headers:136 - http-outgoing-0 >> Connection: Keep-Alive
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.headers:136 - http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.12 (Java/12.0.2)
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.headers:136 - http-outgoing-0 >> Accept-Encoding: gzip,deflate
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-0 >> "POST /bot1097739548:AAEgO1OpNPotzde0v_vEZmJhRSQysAq8V1I/sendmessage HTTP/1.1[\r][\n]"
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-0 >> "charset: UTF-8[\r][\n]"
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-0 >> "Content-Length: 258[\r][\n]"
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-0 >> "Content-Type: application/json; charset=UTF-8[\r][\n]"
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-0 >> "Host: api.telegram.org[\r][\n]"
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.12 (Java/12.0.2)[\r][\n]"
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-0 >> "[\r][\n]"
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.wire:87 - http-outgoing-0 >> "{"chat_id":"426816737","text":"[0xd0][0x9f][0xd1][0x80][0xd0][0xb8][0xd0][0xb2][0xd0][0xb5][0xd1][0x82], [0xd1][0x8f] [0xd0][0xbc][0xd0][0xbe][0xd0][0xb3][0xd1][0x83] [0xd0][0xbf][0xd0][0xbe][0xd0][0xb4][0xd1][0x81][0xd0][0xba][0xd0][0xb0][0xd0][0xb7][0xd0][0xb0][0xd1][0x82][0xd1][0x8c], [0xd0][0xba][0xd0][0xb0][0xd0][0xba] [0xd0][0xb4][0xd0][0xbe][0xd0][0xb1][0xd1][0x80][0xd0][0xb0][0xd1][0x82][0xd1][0x8c][0xd1][0x81][0xd1][0x8f] [0xd0][0xb8][0xd0][0xb7] [0xd0][0xbe][0xd0][0xb4][0xd0][0xbd][0xd0][0xbe][0xd0][0xb3][0xd0][0xbe] [0xd0][0xbc][0xd0][0xb5][0xd1][0x81][0xd1][0x82][0xd0][0xb0] [0xd0][0xb2] [0xd0][0xb4][0xd1][0x80][0xd1][0x83][0xd0][0xb3][0xd0][0xbe][0xd0][0xb5]\r\n[0xd0][0x92][0xd1][0x8b][0xd0][0xb7][0xd0][0xbe][0xd0][0xb2][0xd0][0xb8] [0xd0][0xba][0xd0][0xbe][0xd0][0xbc][0xd0][0xb0][0xd0][0xbd][0xd0][0xb4][0xd1][0x83] /help [0xd0][0xb4][0xd0][0xbb][0xd1][0x8f] [0xd0][0xbf][0xd0][0xbe][0xd0][0xbb][0xd1][0x83][0xd1][0x87][0xd0][0xb5][0xd0][0xbd][0xd0][0xb8][0xd1][0x8f] [0xd0][0xb8][0xd0][0xbd][0xd1][0x81][0xd1][0x82][0xd1][0x80][0xd1][0x83][0xd0][0xba][0xd1][0x86][0xd0][0xb8][0xd0][0xb8]","method":"sendmessage"}"
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-0 << "Server: nginx/1.16.1[\r][\n]"
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-0 << "Date: Sun, 12 Apr 2020 11:43:58 GMT[\r][\n]"
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-0 << "Content-Type: application/json[\r][\n]"
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-0 << "Content-Length: 889[\r][\n]"
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-0 << "Strict-Transport-Security: max-age=31536000; includeSubDomains; preload[\r][\n]"
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-0 << "Access-Control-Allow-Methods: GET, POST, OPTIONS[\r][\n]"
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-0 << "Access-Control-Expose-Headers: Content-Length,Content-Type,Date,Server,Connection[\r][\n]"
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.wire:73 - http-outgoing-0 << "[\r][\n]"
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.wire:87 - http-outgoing-0 << "{"ok":true,"result":{"message_id":107,"from":{"id":1097739548,"is_bot":true,"first_name":"TransportInfoBot","username":"TransportInfoBot"},"chat":{"id":426816737,"first_name":"Alexander","last_name":"Popov","username":"rosamonaar","type":"private"},"date":1586691838,"text":"\u041f\u0440\u0438\u0432\u0435\u0442, \u044f \u043c\u043e\u0433\u0443 \u043f\u043e\u0434\u0441\u043a\u0430\u0437\u0430\u0442\u044c, \u043a\u0430\u043a \u0434\u043e\u0431\u0440\u0430\u0442\u044c\u0441\u044f \u0438\u0437 \u043e\u0434\u043d\u043e\u0433\u043e \u043c\u0435\u0441\u0442\u0430 \u0432 \u0434\u0440\u0443\u0433\u043e\u0435\n\u0412\u044b\u0437\u043e\u0432\u0438 \u043a\u043e\u043c\u0430\u043d\u0434\u0443 /help \u0434\u043b\u044f \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u0438\u044f \u0438\u043d\u0441\u0442\u0440\u0443\u043a\u0446\u0438\u0438","entities":[{"offset":81,"length":5,"type":"bot_command"}]}}"
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.headers:122 - http-outgoing-0 << HTTP/1.1 200 OK
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.headers:125 - http-outgoing-0 << Server: nginx/1.16.1
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.headers:125 - http-outgoing-0 << Date: Sun, 12 Apr 2020 11:43:58 GMT
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.headers:125 - http-outgoing-0 << Content-Type: application/json
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.headers:125 - http-outgoing-0 << Content-Length: 889
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.headers:125 - http-outgoing-0 << Connection: keep-alive
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.headers:125 - http-outgoing-0 << Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.headers:125 - http-outgoing-0 << Access-Control-Allow-Origin: *
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.headers:125 - http-outgoing-0 << Access-Control-Allow-Methods: GET, POST, OPTIONS
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.headers:125 - http-outgoing-0 << Access-Control-Expose-Headers: Content-Length,Content-Type,Date,Server,Connection
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.impl.execchain.MainClientExec:285 - Connection can be kept alive indefinitely
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager:344 - Connection [id: 0][route: {s}->https://api.telegram.org:443] can be kept alive indefinitely
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.impl.conn.DefaultManagedHttpClientConnection:88 - http-outgoing-0: set socket timeout to 0
+2020-04-12 14:44:00 - [ DEBUG] - org.apache.http.impl.conn.PoolingHttpClientConnectionManager:351 - Connection released: [id: 0][route: {s}->https://api.telegram.org:443][total available: 1; route allocated: 1 of 2; total allocated: 1 of 100]
+2020-04-12 16:07:36 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 16:07:36 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 16:07:36 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 16:12:11 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 16:12:11 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 16:12:11 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 16:13:56 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 16:13:56 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 16:13:56 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 16:16:27 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 16:16:27 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 16:16:27 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 16:17:37 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 16:17:37 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 16:17:37 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 16:17:52 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:17:52 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:17:53 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:17:53 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:17:55 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:17:55 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:17:56 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:17:56 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:17:57 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:17:57 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:17:58 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:17:58 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:17:59 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:17:59 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:18:00 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:18:00 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:18:01 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:18:01 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:18:02 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:18:03 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:18:03 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:18:04 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:24:42 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:24:43 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:24:43 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:24:44 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:24:45 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:24:45 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:24:46 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:24:47 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:24:47 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:24:48 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:24:49 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:24:49 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:24:50 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:24:51 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:24:52 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:25:19 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:25:20 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:25:21 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:25:21 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:25:22 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:25:23 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:25:24 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:25:25 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:25:26 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:25:27 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:25:28 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:25:28 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:25:29 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:25:29 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:25:30 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:25:36 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:36 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:36 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:37 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:37 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:37 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:37 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:37 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:37 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:38 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:38 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:38 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:38 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:38 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:38 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:39 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:39 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:39 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:39 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:39 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:39 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:40 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:40 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:40 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:40 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:40 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:40 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:41 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:41 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:41 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:41 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:41 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:41 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:41 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:42 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:42 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:42 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:42 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:42 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:42 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:43 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:43 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:43 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:43 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:43 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:43 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:43 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:43 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:44 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:44 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:44 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:44 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:44 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:44 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:45 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:45 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:45 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:45 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:45 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:46 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:46 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:46 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:46 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:46 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:47 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:25:47 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 400, reason phrase: Bad Request
+2020-04-12 16:28:24 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 16:28:24 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 16:28:24 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 16:32:00 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 16:32:00 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 16:32:00 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 16:32:13 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:32:15 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:32:15 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:32:16 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:32:17 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:32:18 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:32:19 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:32:19 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:32:20 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:32:21 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:32:22 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:32:23 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:32:23 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:32:24 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:32:25 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:35:21 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 16:35:21 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 16:35:21 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 16:38:20 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 16:38:20 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 16:38:20 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 16:39:21 - [ ERROR] - bot.messageProcessing.MessageSender:28 - Error sending message
+2020-04-12 16:39:23 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:39:24 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:39:24 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:39:24 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:39:29 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 16:39:29 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 16:39:29 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 16:39:46 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:39:47 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:39:47 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:39:48 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:39:48 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:39:48 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:39:48 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:41:35 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:41:35 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:41:35 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:41:36 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:41:36 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:41:36 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:41:36 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:41:36 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:41:36 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:41:36 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:41:37 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:41:37 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:41:37 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:41:37 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:41:37 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:44:17 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:44:17 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:44:17 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:44:17 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:44:17 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:44:18 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:44:18 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:44:18 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:44:18 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:44:18 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:44:18 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:44:19 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:44:19 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:44:19 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:44:20 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:44:37 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:44:37 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:44:37 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:44:38 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:44:38 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:44:38 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:44:38 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:44:39 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:44:39 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:44:39 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:44:39 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:44:50 - [ ERROR] - bot.messageProcessing.MessageSender:28 - Error sending message
+2020-04-12 16:46:43 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 16:46:43 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 16:46:43 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 16:47:41 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 16:47:41 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 16:47:41 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 16:50:32 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 16:50:32 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 16:50:32 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 16:51:09 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:51:10 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:51:10 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:51:10 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:51:10 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:51:10 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:51:12 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:51:31 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:51:32 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:51:32 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:51:32 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:51:33 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:51:33 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:51:34 - [ ERROR] - yandex.YandexApiWorker:47 - status code: 404, reason phrase: Not Found
+2020-04-12 16:53:08 - [ ERROR] - bot.messageProcessing.MessageSender:28 - Error sending message
+2020-04-12 16:54:07 - [ ERROR] - bot.messageProcessing.MessageSender:28 - Error sending message
+2020-04-12 16:55:55 - [ ERROR] - bot.messageProcessing.MessageSender:28 - Error sending message
+2020-04-12 16:56:28 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 16:56:28 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 16:56:28 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 16:56:51 - [ ERROR] - bot.messageProcessing.MessageSender:28 - Error sending message
+2020-04-12 16:59:00 - [ ERROR] - bot.messageProcessing.MessageSender:28 - Error sending message
+2020-04-12 17:05:22 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 17:05:22 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 17:05:22 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 17:43:49 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 17:43:49 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 17:43:49 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 17:44:01 - [ ERROR] - bot.messageProcessing.MessageSender:28 - Error sending message
+2020-04-12 17:44:24 - [ ERROR] - bot.messageProcessing.MessageSender:28 - Error sending message
+2020-04-12 17:44:36 - [ ERROR] - bot.messageProcessing.MessageSender:28 - Error sending message
+2020-04-12 17:45:48 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 17:45:48 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 17:45:48 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 17:46:00 - [ ERROR] - bot.messageProcessing.MessageSender:28 - Error sending message
+2020-04-12 18:17:38 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 18:17:38 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 18:17:38 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 18:18:01 - [ ERROR] - bot.messageProcessing.MessageSender:28 - Error sending message
+2020-04-12 18:18:59 - [ ERROR] - bot.messageProcessing.MessageSender:28 - Error sending message
+2020-04-12 18:20:48 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 18:20:48 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 18:20:48 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 18:21:10 - [ ERROR] - bot.messageProcessing.MessageSender:28 - Error sending message
+2020-04-12 18:24:47 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 18:24:47 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 18:24:47 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 18:25:00 - [ ERROR] - database.DbConnectionPool:32 - Public Key Retrieval is not allowed
+2020-04-12 18:25:38 - [ ERROR] - database.DbConnectionPool:32 - Public Key Retrieval is not allowed
+2020-04-12 18:25:44 - [ ERROR] - database.DbConnectionPool:32 - Public Key Retrieval is not allowed
+2020-04-12 18:26:22 - [ ERROR] - yandex.YandexApiWorker:46 - status code: 404, reason phrase: Not Found
+2020-04-12 18:26:23 - [ ERROR] - yandex.YandexApiWorker:46 - status code: 404, reason phrase: Not Found
+2020-04-12 18:26:24 - [ ERROR] - yandex.YandexApiWorker:46 - status code: 404, reason phrase: Not Found
+2020-04-12 18:26:24 - [ ERROR] - yandex.YandexApiWorker:46 - status code: 404, reason phrase: Not Found
+2020-04-12 18:26:26 - [ ERROR] - yandex.YandexApiWorker:46 - status code: 404, reason phrase: Not Found
+2020-04-12 18:26:26 - [ ERROR] - yandex.YandexApiWorker:46 - status code: 404, reason phrase: Not Found
+2020-04-12 18:26:58 - [ ERROR] - bot.messageProcessing.MessageSender:28 - Error sending message
+2020-04-12 18:27:22 - [ ERROR] - bot.messageProcessing.MessageSender:28 - Error sending message
+2020-04-12 18:30:13 - [ ERROR] - bot.messageProcessing.MessageSender:28 - Error sending message
+2020-04-12 18:30:56 - [ ERROR] - bot.messageProcessing.MessageSender:28 - Error sending message
+2020-04-12 18:31:34 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 18:31:34 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 18:31:34 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 18:31:39 - [ ERROR] - bot.messageProcessing.MessageSender:29 - Error sending message
+2020-04-12 18:31:48 - [ ERROR] - bot.messageProcessing.MessageSender:29 - Error sending message
+2020-04-12 18:32:15 - [ ERROR] - yandex.YandexApiWorker:46 - status code: 404, reason phrase: Not Found
+2020-04-12 18:32:16 - [ ERROR] - yandex.YandexApiWorker:46 - status code: 404, reason phrase: Not Found
+2020-04-12 18:32:17 - [ ERROR] - yandex.YandexApiWorker:46 - status code: 404, reason phrase: Not Found
+2020-04-12 18:32:17 - [ ERROR] - yandex.YandexApiWorker:46 - status code: 404, reason phrase: Not Found
+2020-04-12 18:32:19 - [ ERROR] - yandex.YandexApiWorker:46 - status code: 404, reason phrase: Not Found
+2020-04-12 18:32:19 - [ ERROR] - yandex.YandexApiWorker:46 - status code: 404, reason phrase: Not Found
+2020-04-12 18:34:43 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 18:34:43 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 18:34:43 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 18:34:52 - [ ERROR] - bot.messageProcessing.MessageSender:29 - Error sending message
+2020-04-12 18:44:55 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 18:44:55 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 18:44:55 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 18:45:25 - [ ERROR] - bot.messageProcessing.MessageSender:29 - Error sending message
+2020-04-12 18:56:12 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 18:56:12 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 18:56:12 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 18:57:46 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 18:57:46 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 18:57:46 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 19:10:49 - [ INFO ] - bot.BotStarter:23 - [STARTED] Bot connected.
+2020-04-12 19:10:49 - [ INFO ] - bot.messageProcessing.MessageReceiver:21 - [STARTED] MsgReceiver
+2020-04-12 19:10:49 - [ INFO ] - bot.messageProcessing.MessageSender:21 - [STARTED] MsgSender
+2020-04-12 19:11:23 - [ ERROR] - bot.messageProcessing.MessageSender:28 - Text parameter can't be empty
+2020-04-12 19:11:23 - [ ERROR] - bot.messageProcessing.MessageSender:28 - Text parameter can't be empty
+2020-04-12 19:11:23 - [ ERROR] - bot.messageProcessing.MessageSender:28 - Text parameter can't be empty
+2020-04-12 19:11:23 - [ ERROR] - bot.messageProcessing.MessageSender:28 - Text parameter can't be empty
+2020-04-12 19:11:23 - [ ERROR] - bot.messageProcessing.MessageSender:28 - Text parameter can't be empty
+2020-04-12 19:11:23 - [ ERROR] - bot.messageProcessing.MessageSender:28 - Text parameter can't be empty
+2020-04-12 19:11:23 - [ ERROR] - bot.messageProcessing.MessageSender:28 - Text parameter can't be empty
+2020-04-12 19:11:23 - [ ERROR] - bot.messageProcessing.MessageSender:28 - Text parameter can't be empty
+2020-04-12 19:11:23 - [ ERROR] - bot.messageProcessing.MessageSender:28 - Text parameter can't be empty
+2020-04-12 19:11:23 - [ ERROR] - bot.messageProcessing.MessageSender:28 - Text parameter can't be empty
+2020-04-12 19:11:23 - [ ERROR] - bot.messageProcessing.MessageSender:28 - Text parameter can't be empty
+2020-04-12 19:11:23 - [ ERROR] - bot.messageProcessing.MessageSender:28 - Text parameter can't be empty
+2020-04-12 19:11:23 - [ ERROR] - bot.messageProcessing.MessageSender:28 - Text parameter can't be empty
+2020-04-12 19:11:23 - [ ERROR] - bot.messageProcessing.MessageSender:28 - Text parameter can't be empty
+2020-04-12 19:11:23 - [ ERROR] - bot.messageProcessing.MessageSender:28 - Text parameter can't be empty
+2020-04-12 19:11:23 - [ ERROR] - bot.messageProcessing.MessageSender:28 - Text parameter can't be empty
+2020-04-12 19:11:23 - [ ERROR] - bot.messageProcessing.MessageSender:28 - Text parameter can't be empty
+2020-04-12 19:11:40 - [ ERROR] - bot.messageProcessing.MessageSender:28 - Text parameter can't be empty
+2020-04-12 19:11:40 - [ ERROR] - bot.messageProcessing.MessageSender:28 - Text parameter can't be empty
+2020-04-12 19:11:40 - [ ERROR] - bot.messageProcessing.MessageSender:28 - Text parameter can't be empty
+2020-04-12 19:11:40 - [ ERROR] - bot.messageProcessing.MessageSender:28 - Text parameter can't be empty
+2020-04-12 19:11:40 - [ ERROR] - bot.messageProcessing.MessageSender:28 - Text parameter can't be empty
+2020-04-12 19:11:40 - [ ERROR] - bot.messageProcessing.MessageSender:28 - Text parameter can't be empty
+2020-04-12 19:11:40 - [ ERROR] - bot.messageProcessing.MessageSender:28 - Text parameter can't be empty
+2020-04-12 19:11:40 - [ ERROR] - bot.messageProcessing.MessageSender:28 - Text parameter can't be empty
+2020-04-12 19:11:40 - [ ERROR] - bot.messageProcessing.MessageSender:28 - Text parameter can't be empty
+2020-04-12 19:11:40 - [ ERROR] - bot.messageProcessing.MessageSender:28 - Text parameter can't be empty
+2020-04-12 19:11:40 - [ ERROR] - bot.messageProcessing.MessageSender:28 - Text parameter can't be empty
+2020-04-12 19:11:40 - [ ERROR] - bot.messageProcessing.MessageSender:28 - Text parameter can't be empty
+2020-04-12 19:11:40 - [ ERROR] - bot.messageProcessing.MessageSender:28 - Text parameter can't be empty
+2020-04-12 19:11:40 - [ ERROR] - bot.messageProcessing.MessageSender:28 - Text parameter can't be empty
